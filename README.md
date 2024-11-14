@@ -10,7 +10,7 @@
 
 ### 📫 Like to meet me?
 
-Pick one of the bellow options if you'd like to meet me and chat about anything you are passionate about or with interesting projects 👇👇👇
+Pick one of the below options if you'd like to meet me and chat about anything you are passionate about or have an interesting project to discuss 👇👇👇
 
 <a href="mailto:achamorrofdz14@gmail.com?subject=Contact from github&body=Hello! I want to meet you">Send me an email</a> | <a href="https://calendar.app.google/vaYxZPGq7KHnuCXE7">Book a meeting with me</a>
 
@@ -36,7 +36,7 @@ const achamorro = {
         },
         misc: ["REST APIs"],
     },
-    currentFocus: "Aplying best operational process to ML/AI solutions",
+    currentFocus: "Applying best operational process to ML/AI solutions",
     funFact: "I have hundreds of hobbies, I still don't know what it's like to be bored!"
 };
 ```
