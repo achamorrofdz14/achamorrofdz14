@@ -1,7 +1,6 @@
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi!🙏🏻, I'm Adrián Chamorro!</h2>
 <img align='right' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExenM3Mmtzd2d0cG95MTRheTR4bDNoNDZzOGc0MnQwaXJ3amNkM294dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gDH0pb1x7t9eoFXAnc/giphy.gif" width="230">
-<p><em>Global Senior Data Engineer & DataOps at <a href="https://www.simonelectric.com/">Simon Electric
-</a>  | AI & Data enthusiast  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+<p><em>Senior MLOps Engineer & DataOps at <a href="https://capitole-consulting.com/">Capitole</a>  | AI & Data enthusiast  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </em></p>
 
 [![Linkedin: achamorro](https://img.shields.io/badge/-achamorro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adrian-chamorro-fernandez/)](https://www.linkedin.com/in/adrian-chamorro-fernandez/)
@@ -12,7 +11,7 @@
 
 Pick one of the below options if you'd like to meet me and chat about anything you are passionate about or have an interesting project to discuss 👇👇👇
 
-<a href="mailto:achamorrofdz14@gmail.com?subject=Contact from github&body=Hello! I want to meet you">Send me an email</a> | <a href="https://calendar.app.google/vaYxZPGq7KHnuCXE7">Book a meeting with me</a>
+<a href="mailto:achamorrofdz14@gmail.com?subject=Contact from github&body=Hello! I want to meet you">Send me an email</a>
 
 ### <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGUxMjYxdG42Z3V0NG9rZTh5ZHFmOXpiMHQ3dDF6NTRtM285anFuOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WpyMhJpxMzF00iD6LG/giphy.gif" width="30"> A little more about me...  
 
