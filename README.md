@@ -11,7 +11,7 @@
 
 Pick one of the below options if you'd like to meet me and chat about anything you are passionate about or have an interesting project to discuss 👇👇👇
 
-<a href="mailto:achamorrofdz14@gmail.com?subject=Contact from github&body=Hello! I want to meet you">Send me an email</a>
+<a href="mailto:achamorrofdz14@gmail.com?subject=Contact from github&body=Hello! I want to meet you">Send me an email</a> | <a href="https://www.linkedin.com/in/adrian-chamorro-fernandez/">LinkedIn profile</a>
 
 ### <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGUxMjYxdG42Z3V0NG9rZTh5ZHFmOXpiMHQ3dDF6NTRtM285anFuOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WpyMhJpxMzF00iD6LG/giphy.gif" width="30"> A little more about me...  
 
