@@ -19,19 +19,26 @@ Pick one of the below options if you'd like to meet me and chat about anything y
 const achamorro = {
     pronouns: "He" | "Him",
     code: ["Python", "Bash", "SQL", "Apache Beam"],
-    askMeAbout: ["data", "artifical intelligence", "cloud computing", "tech trends"],
+    askMeAbout: ["mlops", "artifical intelligence", "data", "cloud computing", "tech trends"],
     technologies: {
-        databases: ["PostgreSQL", "Google BigQuery", "MySQL", "MSSQL"],
-        devOps: ["Docker", "Kubernetes", "Git", "DVC", "Terraform", "CI/CD", "GitHub Actions", "GitLab CI"],
+        databases: ["PostgreSQL", "Google BigQuery", "Valkey", "MySQL", "MSSQL"],
+        devOps: ["Terraform", "Docker", "Kubernetes", "Git", "DVC", "CI/CD", "GitHub Actions", "GitLab CI"],
         cloudServices: {
             aws: ["AWS Fargate", "AWS ECS", "EC2", "ECR", "S3", "AWS SageMaker", "Lambda", "CloudWatch", "RDS"],
-            gcp: ["Google BigQuuery", "Cloud Functions", "DataFlow", "Composer", "Cloud Storage", "Cloud Monitoring", "Artifact Registry"],
+            gcp: ["Vertex AI", "Composer", "Google BigQuery", "Cloud Functions", "DataFlow", "Cloud Storage", "Cloud Monitoring", "Artifact Registry"],
         },
-        AI: ["MLFlow", "Tensorflow", "Keras", "Scikit-learn"],
-        generativeAI: ["Hugging Face", "LangChain", "GPT", "Vectorization", "Embeddings"],
+        AI: ["MLFlow", "Tensorflow", "Keras", "Scikit-learn", "XGBoost"],
+        generativeAI: {
+            frameworks: ["LangChain", "LlamaIndex", "DSPy", "Hugging Face"],
+            agents: ["LangGraph", "CrewAI"],
+            vectorStores: ["Qdrant", "Pinecone", "Weaviate", "ChromaDB"],
+            inference: ["vLLM", "Ollama", "Triton"],
+            evaluation: ["DeepEval", "Ragas", "Promptfoo", "MLFlow", "Weights & Biases"],
+            pipeline: ["ZenML", "Kubeflow"],
+        },
         backEnd: {
-            C#: [".NET"],
-            python: ["Flask"],
+            python: ["FastAPI", "Flask", "Pydantic"],
+            C#: [".NET"]
         },
         misc: ["REST APIs"],
     },
