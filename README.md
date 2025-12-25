@@ -1,4 +1,4 @@
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi!🙏🏻, I'm Adrián Chamorro!</h2>
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi, I'm Adrián Chamorro!</h2>
 <img align='right' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExenM3Mmtzd2d0cG95MTRheTR4bDNoNDZzOGc0MnQwaXJ3amNkM294dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gDH0pb1x7t9eoFXAnc/giphy.gif" width="230">
 <p><em>Senior MLOps Engineer & DataOps at <a href="https://capitole-consulting.com/">Capitole</a>  | AI & Data enthusiast  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </em></p>
