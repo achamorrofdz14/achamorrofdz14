@@ -17,32 +17,23 @@ Pick one of the below options if you'd like to meet me and chat about anything y
 
 ```javascript
 const achamorro = {
+    role: "Senior MLOps Engineer",
     pronouns: "He" | "Him",
-    code: ["Python", "Bash", "SQL", "Apache Beam"],
-    askMeAbout: ["mlops", "artifical intelligence", "data", "cloud computing", "tech trends"],
+    code: ["Python", "HCL (Terraform)", "SQL", "Bash", "C++"],
+    askMeAbout: ["MLOps Architecture", "GenAI", "ML", "LLM Guardrails"],
     technologies: {
-        databases: ["PostgreSQL", "Google BigQuery", "Valkey", "MySQL", "MSSQL"],
-        devOps: ["Terraform", "Docker", "Kubernetes", "Git", "DVC", "CI/CD", "GitHub Actions", "GitLab CI"],
-        cloudServices: {
-            aws: ["AWS Fargate", "AWS ECS", "EC2", "ECR", "S3", "AWS SageMaker", "Lambda", "CloudWatch", "RDS"],
-            gcp: ["Vertex AI", "Composer", "Google BigQuery", "Cloud Functions", "DataFlow", "Cloud Storage", "Cloud Monitoring", "Artifact Registry"],
-        },
-        AI: ["MLFlow", "Tensorflow", "Keras", "Scikit-learn", "XGBoost"],
+        cloud: ["GCP", "AWS", "Azure"],
+        infrastructure: ["Kubernetes (CKA)", "Terraform", "Docker", "Argo Workflows", "GitHub Actions"],
+        mlops: ["Kubeflow", "MLflow", "ZenML", "Feast", "DVC"],
+        dataEngineering: ["Apache Beam", "Dataflow", "Cloud Composer (Airflow)", "BigQuery"],
         generativeAI: {
-            frameworks: ["LangChain", "LlamaIndex", "DSPy", "Hugging Face"],
-            agents: ["LangGraph", "CrewAI"],
-            vectorStores: ["Qdrant", "Pinecone", "Weaviate", "ChromaDB"],
-            inference: ["vLLM", "Ollama", "Triton"],
-            evaluation: ["DeepEval", "Ragas", "Promptfoo", "MLFlow", "Weights & Biases"],
-            pipeline: ["ZenML", "Kubeflow"],
-        },
-        backEnd: {
-            python: ["FastAPI", "Flask", "Pydantic"],
-            C#: [".NET"]
-        },
-        misc: ["REST APIs"],
+            models: ["OpenAI", "Anthropic", "Gemini"],
+            inference: ["vLLM", "Ollama"],
+            frameworks: ["LangChain", "ChainLit"],
+            security: ["Automated Robustness Testing", "Guardrails"]
+        }
     },
-    currentFocus: "Applying best operational process to ML/AI solutions",
+    currentFocus: "Enabling secure and reliable AI adoption through robust MLOps",
     funFact: "I have hundreds of hobbies, I still don't know what it's like to be bored!"
 };
 ```
